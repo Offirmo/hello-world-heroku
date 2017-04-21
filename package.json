@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-heroku",
+  "version": "0.0.1",
+  "description": "Minimal node.js heroku app :dragon:",
+  "main": "src/index.js",
+  "repository": "https://github.com/Offirmo/hello-world-heroku.git",
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
