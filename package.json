@@ -6,6 +6,12 @@
   "repository": "https://github.com/Offirmo/hello-world-heroku.git",
   "author": "Offirmo <offirmo.net@gmail.com>",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "7.x"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "lodash": "^4.17.4"
   }
