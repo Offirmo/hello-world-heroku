@@ -7,6 +7,7 @@ Following official instructions:
   * https://devcenter.heroku.com/articles/getting-started-with-nodejs#define-a-procfile
   * https://devcenter.heroku.com/articles/getting-started-with-nodejs#define-config-vars
 * reference + extra instructions https://devcenter.heroku.com/articles/nodejs-support
+  * supported nodes: https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version
 * sample base repo https://github.com/heroku/node-js-getting-started.git
 * tips http://blog.heroku.com/archives/2015/11/10/node-habits-2016
 * personal notes https://github.com/Offirmo-team/wiki/wiki/heroku
