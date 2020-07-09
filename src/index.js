@@ -11,7 +11,8 @@ const FOO = process.env.FOO || 33
 const server = http.createServer(function requestHandler(request, response) {
 	response.end(`Hello from node.js!
 FOO = ${FOO}
-dice = ${_.random(1, 6)}
+random dice = ${_.random(1, 6)}
+node version = ${process.version}
 `
 	)
 })
